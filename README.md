@@ -1,6 +1,6 @@
 # Michael Owen
 
-M.S. in Computer Science graduate with hands-on experience building data pipelines, analytics models, and machine learning workflows. I am targeting entry-level and junior roles in data engineering, analytics engineering, and data analytics.
+M.S. in Computer Science graduate with experience building data pipelines, analytics models, and machine learning workflows. I am targeting entry-level and junior roles in data engineering, analytics engineering, data analytics & analysis. 
 
 ## Featured Projects
 
