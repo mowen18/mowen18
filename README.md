@@ -8,6 +8,8 @@ M.S. in Computer Science graduate with hands-on experience building data pipelin
 * [Habit Focus Observatory](https://github.com/mowen18/habit-focus-observatory): A local analytics application using Streamlit, PostgreSQL, and tested dbt staging and mart models.
 * [SMS Spam Classifier](https://github.com/mowen18/spam-classifier): A tested NLP classification workflow using TF-IDF, cross-validation, LinearSVC, and error analysis.
 * [Emissions Analytics](https://github.com/mowen18/gas-turbines-emissions-ml): A reproducible scikit-learn regression workflow using chronological validation to predict gas turbine emissions.
+* [Q-Learning Gridworld](https://github.com/mowen18/q-learning-gridworld): A modular reinforcement learning project using tabular Q-learning, configurable environments, curriculum experiments, evaluation metrics, and automated tests.
+* [Book Recommender](https://github.com/mowen18/book-recommender-knn): A collaborative-filtering recommendation system implementing user-based and item-based k-nearest-neighbor methods with Pearson similarity and MAE evaluation.
 
 ## Technical Skills
 
