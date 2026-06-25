@@ -1,0 +1,19 @@
+# Michael Owen
+
+M.S. in Computer Science graduate with hands-on experience building data pipelines, analytics models, and machine learning workflows. I am targeting entry-level and junior roles in data engineering, analytics engineering, and data analytics.
+
+## Featured Projects
+
+* [Divvy Analytics](https://github.com/mowen18/divvy-analytics): A rerunnable analytics engineering pipeline using Python ingestion, PostgreSQL, dbt, and Airflow.
+* [Habit Focus Observatory](https://github.com/mowen18/habit-focus-observatory): A local analytics application using Streamlit, PostgreSQL, and tested dbt staging and mart models.
+* [SMS Spam Classifier](https://github.com/mowen18/spam-classifier): A tested NLP classification workflow using TF-IDF, cross-validation, LinearSVC, and error analysis.
+* [Emissions Analytics](https://github.com/mowen18/gas-turbines-emissions-ml): A reproducible scikit-learn regression workflow using chronological validation to predict gas turbine emissions.
+
+## Technical Skills
+
+* **Languages and querying:** Python, SQL
+* **Databases and modeling:** PostgreSQL, dbt
+* **Orchestration and infrastructure:** Apache Airflow, Docker
+* **Data analysis and machine learning:** pandas, scikit-learn, Jupyter
+* **Applications and visualization:** Streamlit
+* **Development workflow:** Git, GitHub
