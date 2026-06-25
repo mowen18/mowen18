@@ -1,6 +1,6 @@
 # Michael Owen
 
-B.A. in Economics & M.S. in Computer Science. Experience building data pipelines, analytics models, and machine learning workflows. I am targeting entry-level and junior roles in data engineering, analytics engineering, data analytics & analysis. 
+B.A. in Economics & M.S. in Computer Science. Experience building data pipelines, analytics models, and machine learning workflows. I am targeting junior roles in data engineering, analytics engineering, data analytics & analysis. 
 
 ## Featured Projects
 
