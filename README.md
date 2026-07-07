@@ -4,7 +4,6 @@ B.A. in Economics & M.S. in Computer Science. Experience building data pipelines
 
 ## Featured Projects
 
-* [Emissions Analytics](https://github.com/mowen18/gas-turbines-emissions-ml): A reproducible scikit-learn regression workflow comparing model performance using expanding-window rolling-origin validation and an untouched final holdout year.
 * [Divvy Analytics](https://github.com/mowen18/divvy-analytics): A rerunnable analytics engineering pipeline using Python ingestion, PostgreSQL, dbt, and Airflow.
 * [Running Analytics](https://github.com/mowen18/running-analytics-pipeline): Analytics pipeline evaluating whether aerobic running efficiency is improving over time. Strava + Open-Meteo → Python → Postgres → dbt → Streamlit.
 * [Emissions ML](https://github.com/mowen18/gas-turbines-emissions-ml): A reproducible scikit-learn regression workflow using chronological validation to predict gas turbine emissions.
