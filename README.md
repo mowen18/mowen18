@@ -4,8 +4,8 @@ B.A. in Economics & M.S. in Computer Science. Projects include data pipelines, a
 
 ## Featured Projects
 
-* [Running Analytics](https://github.com/mowen18/running-analytics-pipeline): Data analytics pipeline evaluating whether aerobic running efficiency is improving over time. Strava API + Open-Meteo API → Python → Postgres → dbt → Streamlit. Airflow orchestration. Incremental & idempotent design.
-* [Divvy Analytics](https://github.com/mowen18/divvy-analytics): Idempotent incremental pipeline using Python ingestion, PostgreSQL, dbt, and Airflow for downstream analysis on Divvy Chicago bike-share data.
+* [Running Analytics](https://github.com/mowen18/running-analytics-pipeline): ELT data pipeline + analysis. Evaluating whether aerobic running efficiency is improving over time. Strava API + Open-Meteo API → Python → Postgres → dbt → Streamlit. Airflow orchestration. Incremental & idempotent design.
+* [Divvy Analytics](https://github.com/mowen18/divvy-analytics): Idempotent incremental ELT pipeline. Python ingestion, PostgreSQL warehouse, dbt modeling/testing, and Airflow orchestration. Jupyter notebooks for analysis on Divvy Chicago bike-share data.
 * [Habit Focus Observatory](https://github.com/mowen18/habit-focus-observatory): A local analytics application using Streamlit, PostgreSQL, and tested dbt models.
 * [Emissions ML](https://github.com/mowen18/gas-turbines-emissions-ml): A reproducible scikit-learn regression workflow using chronological validation to predict gas turbine emissions.
 * [SMS Spam Classifier](https://github.com/mowen18/spam-classifier): A tested NLP classification workflow using TF-IDF, cross-validation, LinearSVC, and error analysis.
