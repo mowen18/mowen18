@@ -10,7 +10,6 @@ B.A. in Economics & M.S. in Computer Science. Projects include data pipelines, a
 * [Emissions ML](https://github.com/mowen18/gas-turbines-emissions-ml): A reproducible scikit-learn regression workflow using chronological validation to predict gas turbine emissions.
 * [SMS Spam Classifier](https://github.com/mowen18/spam-classifier): A tested NLP classification workflow using TF-IDF, cross-validation, LinearSVC, and error analysis.
 * [Q-Learning Gridworld](https://github.com/mowen18/q-learning-gridworld): A modular reinforcement learning project using tabular Q-learning, configurable environments, curriculum experiments, evaluation metrics, and automated tests.
-* [Book Recommender](https://github.com/mowen18/book-recommender-knn): A collaborative-filtering recommendation system implementing user-based and item-based k-nearest-neighbor methods with Pearson similarity and MAE evaluation.
 
 ## Technical Skills
 
